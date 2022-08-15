@@ -1,2 +1,2 @@
-# my.utils
+# joe-utils
 various utilities
